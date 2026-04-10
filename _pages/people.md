@@ -45,4 +45,59 @@ nav_order: 2
 
 <h2 id="students">Graduate Students</h2>
 
-<p><em>Coming soon...</em></p>
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/heeseon.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Han Heeseon">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Han Heeseon (한희선)</h4>
+    <p><strong>M.A. Student</strong><br>
+    Department of Music Therapy,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:enfrl98@ewha.ac.kr">enfrl98@ewha.ac.kr</a></p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.A. in Instrumental Music, Dankook University</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/dongju.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lee Dong Ju">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Lee Dong Ju (이동주)</h4>
+    <p><strong>M.A. Student</strong><br>
+    Department of Music Therapy,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:2edj0830@ewha.ac.kr">2edj0830@ewha.ac.kr</a></p>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.A. in Music Performance, Ewha Womans University</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/dasom.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Dasom Park">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Dasom Park (박다솜)</h4>
+    <p><strong>Ph.D. Student (Integrated M.A.-Ph.D. Program)</strong><br>
+    Department of Music Therapy,<br>
+    Graduate School,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:sompark@ewha.ac.kr">sompark@ewha.ac.kr</a></p>
+    <p><strong>Research Interests</strong></p>
+    <ul>
+      <li>Music Information Retrieval (MIR)</li>
+      <li>Neurologic Music Therapy</li>
+    </ul>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.A. in Applied Music (Practical Music), Chodang University</li>
+    </ul>
+  </div>
+</div>
