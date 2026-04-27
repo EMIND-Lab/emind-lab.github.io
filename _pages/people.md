@@ -45,6 +45,58 @@ nav_order: 2
 
 <h2 id="students">Graduate Students</h2>
 
+<!-- Ye-eun Shin -->
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/yeeun.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Ye-eun Shin">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Ye-eun Shin (신예은)</h4>
+    <p><strong>Ph.D. Student</strong><br>
+    Department of Music Therapy, Graduate School,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:clarissa0108@ewha.ac.kr">clarissa0108@ewha.ac.kr</a></p>
+    <p><strong>Research Interests</strong></p>
+    <ul>
+      <li>Arts-based therapies and clinical applications</li>
+      <li>Music and human behavior</li>
+      <li>Music-induced emotional responses</li>
+    </ul>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>Ph.D. in Music Therapy, Ewha Womans University (in progress)</li>
+      <li>M.A. in Music Therapy, Ewha Womans University</li>
+      <li>B.A. in Communication Arts and Science (Double Major in Mass Communication and Visual & Performing Arts), Handong University</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Dasom Park -->
+<div class="row mt-3">
+  <div class="col-sm-3 col-md-3">
+    <img src="{{ '/assets/img/dasom.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Dasom Park">
+  </div>
+  <div class="col-sm-9 col-md-9">
+    <h4>Dasom Park (박다솜)</h4>
+    <p><strong>Ph.D. Student (Integrated M.A.-Ph.D. Program)</strong><br>
+    Department of Music Therapy,<br>
+    Graduate School,<br>
+    Ewha Womans University</p>
+    <p><strong>Email:</strong> <a href="mailto:sompark@ewha.ac.kr">sompark@ewha.ac.kr</a></p>
+    <p><strong>Research Interests</strong></p>
+    <ul>
+      <li>Neurologic Rehabilitation</li>
+      <li>Music Information Retrieval (MIR)</li>
+      <li>Development of interactive music-based interfaces for neurologic rehabilitation</li>
+    </ul>
+    <p><strong>Education</strong></p>
+    <ul>
+      <li>B.A. in Applied Music (Practical Music), University</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Han Heeseon -->
 <div class="row mt-3">
   <div class="col-sm-3 col-md-3">
     <img src="{{ '/assets/img/heeseon.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Han Heeseon">
@@ -62,6 +114,7 @@ nav_order: 2
   </div>
 </div>
 
+<!-- Lee Dong Ju -->
 <div class="row mt-3">
   <div class="col-sm-3 col-md-3">
     <img src="{{ '/assets/img/dongju.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lee Dong Ju">
@@ -75,29 +128,6 @@ nav_order: 2
     <p><strong>Education</strong></p>
     <ul>
       <li>B.A. in Music Performance, Ewha Womans University</li>
-    </ul>
-  </div>
-</div>
-
-<div class="row mt-3">
-  <div class="col-sm-3 col-md-3">
-    <img src="{{ '/assets/img/dasom.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Dasom Park">
-  </div>
-  <div class="col-sm-9 col-md-9">
-    <h4>Dasom Park (박다솜)</h4>
-    <p><strong>Ph.D. Student (Integrated M.A.-Ph.D. Program)</strong><br>
-    Department of Music Therapy,<br>
-    Graduate School,<br>
-    Ewha Womans University</p>
-    <p><strong>Email:</strong> <a href="mailto:sompark@ewha.ac.kr">sompark@ewha.ac.kr</a></p>
-    <p><strong>Research Interests</strong></p>
-    <ul>
-      <li>Music Information Retrieval (MIR)</li>
-      <li>Neurologic Music Therapy</li>
-    </ul>
-    <p><strong>Education</strong></p>
-    <ul>
-      <li>B.A. in Applied Music (Practical Music), Chodang University</li>
     </ul>
   </div>
 </div>
